@@ -1,0 +1,1 @@
+savedcmd_/home/umetsu/HDD1/DeviceDriverLesson/01_01/test.mod := printf '%s\n'   test.o | awk '!x[$$0]++ { print("/home/umetsu/HDD1/DeviceDriverLesson/01_01/"$$0) }' > /home/umetsu/HDD1/DeviceDriverLesson/01_01/test.mod
